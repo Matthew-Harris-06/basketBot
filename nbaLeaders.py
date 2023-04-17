@@ -135,7 +135,7 @@ def furtherParse(allStats: list[list[str]]) -> list[tuple]:
     
     return splitResults 
    
-    
+   
 def getData() -> list[tuple[str,list]]:
 
 
